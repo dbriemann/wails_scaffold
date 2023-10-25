@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@iconify/svelte": "^3.1.4",
+    "@skeletonlabs/skeleton": "^2.4.0",
+    "@skeletonlabs/tw-plugin": "^0.2.3",
+    "@sveltejs/vite-plugin-svelte": "^2.4.2",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.52.0",
+    "postcss": "^8.4.24",
+    "postcss-load-config": "^4.0.1",
+    "prettier": "^3.0.3",
+    "svelte": "^4.0.5",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.4.5"
+  }
+}
